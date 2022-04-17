@@ -1,4 +1,5 @@
 import javax.swing.*;
+// Clase scanner para usar datos desde la terminal
 
 public class SistemasNumericos {
     public static void main(String[] args) {
